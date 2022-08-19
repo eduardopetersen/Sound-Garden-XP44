@@ -2,7 +2,7 @@
 
 # Sound Garden :musical_note: :guitar:
 
-https://github.com/eduardopetersen/Sound-Garden-XP44
+https://github.com/eduardopetersen/Sound-Garden-XP44](https://eduardopetersen.github.io/Sound-Garden-XP44/
 
 # Sobre
 
